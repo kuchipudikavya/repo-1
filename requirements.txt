@@ -1,0 +1,6 @@
+streamlit
+tensorflow>=2.8
+pillow
+numpy
+opencv-python-headless
+scikit-image
